@@ -1,0 +1,14 @@
+# Wolfram / Mathematica
+*.mx
+*.nb~
+*.m~
+.DS_Store
+
+# Generated outputs
+results/
+cache/
+
+# Figures/exports you don't want versioned by default
+*.pdf
+*.png
+*.svg
